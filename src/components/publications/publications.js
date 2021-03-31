@@ -1,9 +1,9 @@
 import React, { Component } from "react";
-export default class Testimonials extends Component {
+export default class publications extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
-      <section id="testimonials">
+      <section id="publications">
         <div className="row">
           <div className="twelve columns collapsed">
             <h1>Here are some of my publications.</h1>
