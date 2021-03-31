@@ -366,46 +366,55 @@ ul#nav li.current a {
 
 .photoshop {
   width: 60%;
+  animation: photoshop 2s ease;
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
 }
 .illustrator {
   width: 55%;
+  animation: illustrator 2s ease;
   -moz-animation: illustrator 2s ease;
   -webkit-animation: illustrator 2s ease;
 }
 .wordpress {
   width: 50%;
+  animation: wordpress 2s ease;
   -moz-animation: wordpress 2s ease;
   -webkit-animation: wordpress 2s ease;
 }
 .css {
   width: 70%;
+  animation: css 2s ease;
   -moz-animation: css 2s ease;
   -webkit-animation: css 2s ease;
 }
 .html5 {
   width: 80%;
+  animation: html5 2s ease;
   -moz-animation: html5 2s ease;
   -webkit-animation: html5 2s ease;
 }
 .javascript {
   width: 68%;
+  animation: html5 2s ease;
   -moz-animation: html5 2s ease;
   -webkit-animation: html5 2s ease;
 }
 .react {
   width: 70%;
+  animation: reactjs 2s ease;
   -moz-animation: reactjs 2s ease;
   -webkit-animation: reactjs 2s ease;
 }
 .python {
   width: 55%;
+  animation: reactjs 2s ease;
   -moz-animation: reactjs 2s ease;
   -webkit-animation: reactjs 2s ease;
 }
 .mernstack {
   width: 60%;
+  animation: reactjs 2s ease;
   -moz-animation: reactjs 2s ease;
   -webkit-animation: reactjs 2s ease;
 }
