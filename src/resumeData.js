@@ -84,10 +84,10 @@ let resumeData = {
       url: "https://anywhere-else-app.herokuapp.com/",
     },
     {
-      name: "Triptych",
-      description: "A full MERN stack customizable art gallery",
-      imgurl: "images/Triptych600x650.png",
-      url: "https://react-triptych-ii.herokuapp.com/",
+      name: "Easy Shop",
+      description: "A full React Native ecommerce app. ",
+      imgurl: "images/easyshop600x650.png",
+      url: "https://6085b40a20535df092fd2d00--easy-shop-bhowe111.netlify.app/",
     },
     {
       name: "WhatsAppAgain",
