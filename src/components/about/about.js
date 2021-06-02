@@ -16,7 +16,8 @@ export default class About extends Component {
           <div className="nine columns main-col">
             <h2>About Me</h2>
             <p>
-              Hello there! I'm a full-stack software engineer experienced in{" "}
+              Hello there! I'm a full-stack software engineer and writer
+              experienced in{" "}
               <span>
                 gathering, analyzing and compiling information from disparate
                 resources into engaging products.

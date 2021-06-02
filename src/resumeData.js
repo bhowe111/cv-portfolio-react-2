@@ -1,7 +1,7 @@
 let resumeData = {
   imagebaseurl: "https://bhowe111.github.io",
   name: "Brendan Howe",
-  role: "Software Engineer",
+  role: "Software Engineer | Writer",
   linkedinId: "https://www.linkedin.com/in/brendan-howe/",
   roleDescription: "Role description here",
   socialLinks: [
@@ -17,7 +17,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    "Hello there! I'm a full-stack software engineer experienced in gathering, analyzing and compiling information from disparate resources into engaging products. My background in the service industry, education, journalism, and radio informs my problem-solving approach of doing more with less. I am most interested in working with organizations actively involved in projects to make societies sustainable and equitable. I also write, conduct, record, and produce interviews with innovators in business technology and the arts. I often play rock and blues and climb large boulders.",
+    "Hello there! I'm a full-stack software engineer and writer experienced in gathering, analyzing and compiling information from disparate resources into engaging products. My background in the service industry, education, journalism, and radio informs my problem-solving approach of doing more with less. I am most interested in working with organizations actively involved in projects to make societies sustainable and equitable. I also write, conduct, record, and produce interviews with innovators in business technology and the arts. I often play rock and blues and climb large boulders.",
   address: "Seattle, WA",
   website: "brendanhowe.dev",
   email: "brendan.howe1@gmail.com",
