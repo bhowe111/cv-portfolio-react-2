@@ -27,11 +27,6 @@ export default class About extends Component {
             </p>
 
             <p>
-              I am most interested in working with organizations actively
-              involved in projects to make societies sustainable and equitable.
-            </p>
-
-            <p>
               I write, conduct, record, and produce interviews with innovators
               in business technology and the arts. I also play folk rock and go
               bouldering.
