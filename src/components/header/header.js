@@ -50,7 +50,7 @@ export default class Header extends Component {
           <div className="row banner">
             <div className="banner-text">
               <h1 className="responsive-headline">Brendan Howe</h1>
-              <h3>Software Engineer</h3>
+              <h3>Software Engineer | Writer</h3>
               <hr />
               <ul className="social">
                 {resumeData.socialLinks &&
