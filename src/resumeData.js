@@ -50,8 +50,7 @@ let resumeData = {
       specialization: "Community Outreach Coordinator",
       DatesWorked: "Jan 2017 - Feb 2018",
       Achievements:
-        "Increased efficiency and experience of prospect-to-volunteer pipeline to onboard and retain 25 new volunteers.
-Coordinated KING FM presence at 125 events per annum, originated music trivia program to sign up 1000+ new KING FM members and get surplus CDs into listeners’ possession.",
+        "Increased efficiency and experience of prospect-to-volunteer pipeline to onboard and retain 25 new volunteers. \n Coordinated KING FM presence at 125 events per annum, originated music trivia program to sign up 1000+ new KING FM members and get surplus CDs into listeners’ possession.",
     },
     {
       CompanyName: "Restaurant Industry",
@@ -60,8 +59,7 @@ Coordinated KING FM presence at 125 events per annum, originated music trivia pr
       Achievements:
         "Momosan, Seattle, WA: Maintain calm efficiency under sustained pressure.
         \n
-Tutta Bella, Seattle, WA: Managed daily finances above $10,000 in sales and employee schedule changes to benefit employee mental health and workplace culture, reduced last-minute scheduling conflicts by 60%
-.",
+Tutta Bella, Seattle, WA: Managed daily finances above $10,000 in sales and employee schedule changes to benefit employee mental health and workplace culture, reduced last-minute scheduling conflicts by 60%.",
     },
   ],
   skillsDescription:
