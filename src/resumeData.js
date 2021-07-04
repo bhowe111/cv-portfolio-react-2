@@ -27,14 +27,15 @@ let resumeData = {
       specialization: "Software Engineering Immersive Graduate",
       datesAttended: "Sep - Dec 2020",
       Achievements:
-        "Full-time, 12-week, 480+ hour immersive coding boot camp graduate. Built a strong foundation in web development languages and principles. Worked with a team of engineers and UX/UI designers to win a 36-hour in-house hackathon.",
+        "Full-time, 12-week, 480+ hour immersive coding boot camp graduate, 100% assignments completed on schedule and to specifications. Managed a team of engineers and UX/UI designers, won a 36-hour in-house hackathon.
+",
     },
     {
       UniversityName: "University of California, Santa Cruz",
       specialization: "BA American Studies",
       datesAttended: "Aug 2009 - Jun 2013",
       Achievements:
-        "Thesis on Bruce Springsteen's music in American  culture. Graduated with honors in the major.",
+        "Thesis on Bruce Springsteen's music in American culture. Graduated with honors in the major.",
     },
   ],
   work: [
@@ -43,14 +44,25 @@ let resumeData = {
       specialization: "Writer, Editor, Interviewer",
       DatesWorked: "Jan 2016 - Present",
       Achievements:
-        "Plan projects and research extensively prior to interviews. Write and conduct interviews with innovative sources in the arts, business and technology for magazine and blog publication. Utilize exceptional writing, editing and proofreading skills to produce engaging and error-free content.",
+        "Plan projects and research extensively prior to interviews.  Write and conduct interviews with innovative sources for publication, increase web presence and promote major upcoming projects. Utilize exceptional writing, editing and proofreading skills to produce engaging and error-free content.",
+    },
+    {
+      CompanyName: "Classical KING FM 98.1",
+      specialization: "Community Outreach Coordinator",
+      DatesWorked: "Jan 2017 - Feb 2018",
+      Achievements:
+        "Increased efficiency and experience of prospect-to-volunteer pipeline to onboard and retain 25 new volunteers.
+Coordinated KING FM presence at 125 events per annum, originated music trivia program to sign up 1000+ new KING FM members and get surplus CDs into listeners’ possession.",
     },
     {
       CompanyName: "Restaurant Industry",
       specialization: "Lead Server",
       DatesWorked: "Jun 2013 - Mar 2020",
       Achievements:
-        "Maintain calm efficiency under sustained, intense pressure. Manage daily finances and employee schedule changes.",
+        "Momosan, Seattle, WA: Maintain calm efficiency under sustained pressure.
+        \n
+Tutta Bella, Seattle, WA: Managed daily finances above $10,000 in sales and employee schedule changes to benefit employee mental health and workplace culture, reduced last-minute scheduling conflicts by 60%
+.",
     },
   ],
   skillsDescription:
