@@ -27,8 +27,7 @@ let resumeData = {
       specialization: "Software Engineering Immersive Graduate",
       datesAttended: "Sep - Dec 2020",
       Achievements:
-        "Full-time, 12-week, 480+ hour immersive coding boot camp graduate, 100% assignments completed on schedule and to specifications. Managed a team of engineers and UX/UI designers, won a 36-hour in-house hackathon.
-",
+        "Full-time, 12-week, 480+ hour immersive coding boot camp graduate, 100% assignments completed on schedule and to specifications. Managed a team of engineers and UX/UI designers, won a 36-hour in-house hackathon.",
     },
     {
       UniversityName: "University of California, Santa Cruz",
