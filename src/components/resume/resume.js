@@ -58,7 +58,7 @@ export default class Resume extends Component {
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://docs.google.com/document/d/e/2PACX-1vQW8-BZqQHcBqGfEZSRdvBGjPKByURqKj2CvMGzb_u7NegpiE2wbXpIkRtgeETmWxseDX114jQ1p00M/pub"
+                href="https://docs.google.com/document/d/e/2PACX-1vRYUHmwvzatvFZf8JmUm6RuJ0tD3zCypK28O8z92cUUPEzZ6itCiN9UXk5vS2BZ1j8VRB_U0A6QRwDW/pub"
                 className="btn btn--download"
               >
                 VIEW CV
