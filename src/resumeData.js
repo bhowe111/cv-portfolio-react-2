@@ -57,7 +57,7 @@ let resumeData = {
       specialization: "Lead Server",
       DatesWorked: "Jun 2013 - Mar 2020",
       Achievements:
-        "Momosan, Seattle, WA: Maintain calm efficiency under sustained pressure. \n Tutta Bella, Seattle, WA: Managed daily finances above $10,000 in sales and employee schedule changes to benefit employee mental health and workplace culture, reduced last-minute scheduling conflicts by 60%.",
+        "Momosan and Tutta Bella, Seattle, WA: Maintain calm efficiency under sustained pressure. \n Managed daily finances above $10,000 in sales and employee schedule changes to benefit employee mental health and workplace culture, reduced last-minute scheduling conflicts by 60%.",
     },
   ],
   skillsDescription:
