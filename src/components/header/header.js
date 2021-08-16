@@ -20,13 +20,13 @@ export default class Header extends Component {
                 </a>
               </li>
               <li>
-                <a className="smoothscroll" href="#portfolio">
-                  Works
+                <a className="smoothscroll" href="#publications">
+                  Publications
                 </a>
               </li>
               <li>
-                <a className="smoothscroll" href="#publications">
-                  Publications
+                <a className="smoothscroll" href="#portfolio">
+                  Works
                 </a>
               </li>
               <li>
@@ -50,7 +50,7 @@ export default class Header extends Component {
           <div className="row banner">
             <div className="banner-text">
               <h1 className="responsive-headline">Brendan Howe</h1>
-              <h3>Software Engineer | Writer</h3>
+              <h3>Writer | Manager | Software Engineer</h3>
               <hr />
               <ul className="social">
                 {resumeData.socialLinks &&

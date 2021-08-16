@@ -16,7 +16,7 @@ export default class About extends Component {
           <div className="nine columns main-col">
             <h2>About Me</h2>
             <p>
-              Broad experience across writing, service, education, programming
+              Experienced in writing, programming, customer service, education,
               and radio. Able to do more with less. Setting my teams and clients
               up for success, continuous learning and a strong sense of mission
               are my primary motivators. Chess enthusiast.
