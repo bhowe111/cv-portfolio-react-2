@@ -4,7 +4,7 @@ export default class Resume extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="resume">
-        <div className="row education">
+        {/* <div className="row education">
           <div className="three columns header-col">
             <h1>
               <span>Education</span>
@@ -29,7 +29,7 @@ export default class Resume extends Component {
                 );
               })}
           </div>
-        </div>
+        </div> */}
         <div className="row work">
           <div className="three columns header-col">
             <h1>
@@ -38,7 +38,7 @@ export default class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-            {resumeData.work &&
+            {/* {resumeData.work &&
               resumeData.work.map((item) => {
                 return (
                   <div className="row item">
@@ -53,12 +53,12 @@ export default class Resume extends Component {
                     </div>
                   </div>
                 );
-              })}
+              })} */}
             <div className="column w-1000-stack">
               <a
                 target="_blank"
                 rel="noreferrer"
-                href="https://docs.google.com/document/d/e/2PACX-1vRYUHmwvzatvFZf8JmUm6RuJ0tD3zCypK28O8z92cUUPEzZ6itCiN9UXk5vS2BZ1j8VRB_U0A6QRwDW/pub"
+                href="https://docs.google.com/document/d/e/2PACX-1vSf8G-qyaWUKflunEEzU59panb1II2m4qZDv8_XEtpiqYqbPUec6OFVCRCI4OT1pRzqRLVvVqbdMaGw/pub"
                 className="btn btn--download"
               >
                 VIEW CV

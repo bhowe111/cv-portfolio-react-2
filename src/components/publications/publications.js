@@ -6,7 +6,7 @@ export default class publications extends Component {
       <section id="publications">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Here are some of my publications.</h1>
+            <h1>...and here are some of my publications.</h1>
             <div
               id="portfolio-wrapper"
               className="bgrid-fifths s-bgrid-thirds cf"
