@@ -16,20 +16,16 @@ export default class About extends Component {
           <div className="nine columns main-col">
             <h2>About Me</h2>
             <p>
-              Hello there! I'm a full-stack software engineer and writer
-              experienced in{" "}
-              <span>
-                gathering, analyzing and compiling information from disparate
-                resources into engaging products.
-              </span>{" "}
-              My background in the service industry, education, journalism, and
-              radio informs my problem-solving approach of doing more with less.
+              Experienced in writing, programming, customer service, education,
+              and radio. Able to do more with less. Setting my teams and clients
+              up for success, continuous learning and a strong sense of mission
+              are my primary motivators. Chess enthusiast.
             </p>
 
             <p>
               I write, conduct, record, and produce interviews with innovators
-              in business technology and the arts. I also play folk rock and go
-              bouldering.
+              in business technology and the arts. I also play guitar and
+              tennis.
             </p>
             <br />
 
